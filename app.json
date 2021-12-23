@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "koko",
-    "slug": "koko",
+    "name": "Story 100",
+    "slug": "story100",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fff000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,9 +20,10 @@
       "supportsTablet": true
     },
     "android": {
+      "package":  "com.lzayyakoko.story100",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/wbook.png",
+        "backgroundColor": "#fcd5ce"
       }
     },
     "web": {
